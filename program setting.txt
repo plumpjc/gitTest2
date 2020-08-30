@@ -1,0 +1,21 @@
+1. JDK 1.8
+
+2. 환경 변수 설정
+CATALINA_HOME --> E:\B_Util\5.ApacheTomcat\apache-tomcat-8.5.57
+JAVA_HOME --> E:\B_Util\2.Java\JDK1.8
+path --> %JAVA_HOME%\bin
+classpath --> .;%CATALINA_HOME%\lib\servlet-api.jar;
+
+3. eclipse2020_06
+https://www.eclipse.org/downloads/packages/release/2020-06/r
+file name : eclipse-jee-2020-06-R-win32-x86_64
+
+4. tomcat
+https://tomcat.apache.org/download-80.cgi
+core - zip
+
+5. 서버 설정
+
+6. 이클립스 환경 설정
+
+7. helloServlet 
